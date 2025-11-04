@@ -1,14 +1,11 @@
 # Login UI Project (Kelompok)
 
 Aplikasi login Flutter dengan tema custom (warna, font, dan animasi).
-
-## Screenshot
-(akan ditambahkan setelah diupload)
 # Tampilan Aplikasi
 
 Berikut tampilan aplikasi saya:
 
-![Tampilan Utama](assets/images/login.png)
+![Tampilan Utama](assets/login.png)
  
 
 ## Anggota Kelompok
