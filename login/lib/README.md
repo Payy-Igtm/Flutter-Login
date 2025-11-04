@@ -5,7 +5,7 @@ Aplikasi login Flutter dengan tema custom (warna, font, dan animasi).
 
 Berikut tampilan aplikasi saya:
 
-![Tampilan Utama](assets/login.png)
+![Halaman Login](../assets/login.png)
  
 
 ## Anggota Kelompok
